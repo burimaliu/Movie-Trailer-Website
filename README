@@ -1,0 +1,13 @@
+Movie Trailer Website
+
+How to run this application:
+
+1. Install Python
+2. Download fresh_tomatoes.py
+3. From Terminal run python fresh_tomatoes.py
+
+
+Results:
+
+1. A new file will be created called fresh_tomatoes.html in current directory
+2. Application will atempt to create a new tab in your browser and show results from fresh_tomatoes.html
